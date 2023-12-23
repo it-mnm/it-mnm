@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 💬 클라우드에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard Cloud is always welcome. Feel free to contact me.
 
 언어 및 도구 / Language & Tools
+
+
 AWS / Docker / Python / Airflow 
